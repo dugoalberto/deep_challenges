@@ -25,7 +25,8 @@ This repository contains solutions for two practical challenges from the Deep Le
 
 ## Notebooks
 
-> **Note:** For confidentiality reasons, the original Jupyter notebooks are not publicly accessible. Instead, this repository includes snapshots of key outputs.
+> **Note:** For confidentiality reasons, the original challenges are not publicly accessible. Instead, this repository includes snapshots of key outputs.
+13th place out of 135 participants
 
 * **`challenge1_image_classification.ipynb`**
 
@@ -42,15 +43,15 @@ This repository contains solutions for two practical challenges from the Deep Le
 ## Results
 
 ### Challenge 1: Image Classification
-
+1th place out of 92 participants
 ![Challenge 1 Results](images_results/challenge1_results.png)
 
 * Final test accuracy: **0.81%** the higher the best
-* Best-performing model: Custom CNN with data augmentation
+* Best-performing model: Custom CNN with data augmentation and ensemble method of different models
 
 ### Challenge 2: Time-Series Modeling
 
 ![Challenge 2 Results](images_results/challenge2_results.png)
 
 * Forecast RMSE on test set: **0.94** the lower the best
-* Best-performing model: Stacked LSTM with dropout regularization
+* Best-performing model: LSTM with multiple type of regularization
